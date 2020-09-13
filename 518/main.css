@@ -1,0 +1,105 @@
+.font__size__smaller {
+  font-size: 12px;
+}
+
+.color__333 {
+  color: #333333;
+}
+
+.color__666 {
+  color: #666666;
+}
+
+.color__888 {
+  color: #888888;
+}
+
+.register__nav {
+  border-bottom: 2px solid #ff6446;
+}
+
+.register__nav__logo {
+  width: 160px;
+}
+
+.register__link {
+  color: #1481d8;
+  font-size: 12px;
+}
+
+.register__link:hover {
+  color: #ff6446;
+  text-decoration: none;
+}
+
+.register__nav__line {
+  color: #c4c4c4;
+}
+
+.register__title {
+  font-size: 28px;
+  color: #ff6446;
+}
+
+.register__btn {
+  width: 100%;
+  height: 52px;
+  border: none;
+  border-radius: 4px;
+  background: #ff6446;
+  color: white;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.register__btn:hover {
+  background: #ff4d2b;
+}
+
+.register__btn:focus {
+  outline: none;
+}
+
+.register__apple {
+  width: 100%;
+  height: 44px;
+  background: #000000;
+  border-radius: 4px;
+  color: white;
+}
+
+.register__apple:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.register__fb {
+  width: 100%;
+  height: 44px;
+  background: #2553b4;
+  border-radius: 4px;
+  color: white;
+}
+
+.register__fb:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.register__google {
+  width: 100%;
+  height: 44px;
+  background: white;
+  border: 1px solid #d8d8d8;
+  border-radius: 4px;
+  color: #333333;
+}
+
+.register__google:hover {
+  color: #333333;
+  text-decoration: none;
+}
+
+.register__footer {
+  border-top: 2px solid #ff6446;
+}
